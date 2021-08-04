@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1628056243399.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3962057329",
+    "id" : "240F95EE",
+    "lastKnownWriteTime" : 1628052983,
+    "last_content_update" : 1628052983,
+    "path" : "~/Documents/GitHub/md/config/_default/menus.yaml",
+    "project_path" : "config/_default/menus.yaml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
