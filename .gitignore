@@ -6,3 +6,7 @@
 public/
 jsconfig.json
 node_modules/
+.Rproj.user
+
+# Mac OS 
+.DS_Store
