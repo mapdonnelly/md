@@ -6,7 +6,7 @@ title: Marisa Donnelly, PhD
 superuser: true
 
 # Role/position/tagline
-role: Infectious disease 
+role: Infectious disease Epi
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ bio: My research interests include infectious disease modeling, field epidemiolo
 
 # Interests to show in About widget
 interests:
-- 👩‍💻 Infectious Disease Modeling
+- 👩💻 Infectious Disease Modeling
 - 🥾 Field Epidemiology
 - 🌎 Health Equity
 
