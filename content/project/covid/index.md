@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Epidemiology
-summary: SARS-CoV-2 Transmission in US Households
+summary: Leading a SARS-CoV-2 household transmission investigation in US Households
 tags:
 - Deep Learning
 date: "2021-08-08T00:00:00Z"

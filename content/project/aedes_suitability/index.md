@@ -1,16 +1,17 @@
 ---
-title: Dengue and Zika Epidemiology in Peru
-summary: Data management for a 15,000 participant cohort study
+title: Modeling changes in *Aedes aegypti* habitat
+summary: Mapping past, present, and future climatic suitability of Ae. aegypti in the United States
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+date: "2021-08-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Bar charts represent surveillance data on Aedes aegypti (red) and Aedes albopicturs (pink) collections. The blue lines mapped on top of these charts represent the predicted population growth rates for Aedes aegypti. The predicted growth rates track well with observed surveillance data. These models can be used to project future changes in population dynamics and identify communities that may need additional resources for vector control. 
   focal_point: Smart
+
+
 
 # links:
 # - icon: twitter
@@ -30,4 +31,4 @@ image:
 # slides: example
 ---
 
-As the survey and data manager for the Proyecto Dengue Program Project Grant (P01, PIs Dr. Tom Scott and Dr. Amy Morrison), I developed and managed surveys and data-collection efforts for a longitudinal cohort study with over **15,000 participants** under surveillance for dengue and Zika virus infections in Iquitos, Peru. My main duties were programming the CommCare mobile application system used to administer surveys in the field, designing surveys, translating and streamlining surveys and standard operating procedures into Spanish, field-testing applications and survey protocols in Iquitos, and administering trainings in Spanish on using the CommCare data collection application and data management to Peruvian doctors and field technicians in Iquitos. To to ensure that the surveys and mobile application system were user-friendly for the field-technicians while also maintained the integrity of the data, I served as a liaison between and communicated heavily with field technicians, project managers, the CommCare database management team, and project scientists. Additionally, I developed an extensive knowledge of dengue and Zika epidemiology and a strong understanding of the socio-demographic determinants of both diseases.
+Rapid changes in the distributions of the mosquito species *Aedes aegypti* in the continental United States alter the potential for local transmission of dengue, chikungunya, and Zika viruses. The expanding range of these mosquitoes and discovery of new populations within the U.S. raises questions about whether recent spread has been enabled by climate change or other anthropogenic influences. In our analysis, we use daily average temperatures for the United States to model *Ae. aegypti* population growth rates using a stage-structured matrix population model to understand the past and present habitat suitability of this vector, and to project future habitat suitability under IPCC climate change scenario representative concentration pathway (RCP) 4.5. Our results indicate that much of the southern U.S. is suitable for *Ae. aegypti* year-round; however, a surprisingly large proportion of the U.S. in addition to southern states is suitable for positive population growth for much of the year. Additionally, IPCC CMIP5 model projections of future climate change suggest that climate change will expand the range and increase population growth rates of *Ae. aegypti* in the U.S., potentially increasing the range of the viruses they transmit. We also used this model to build a web-based application [available here](https://maps.vectorsurv.org/invasive) to estimate seasonal population dynamics of *Ae. aegypti* and *Ae. albopictus* populations in California.
