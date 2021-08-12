@@ -6,7 +6,7 @@ title: Marisa Donnelly, PhD
 superuser: true
 
 # Role/position/tagline
-role: Infectious disease 
+role: Infectious disease Epi
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ bio: My research interests include infectious disease modeling, field epidemiolo
 
 # Interests to show in About widget
 interests:
-- 👩‍💻 Infectious Disease Modeling
+- 👩💻 Infectious Disease Modeling
 - 🥾 Field Epidemiology
 - 🌎 Health Equity
 
@@ -54,11 +54,11 @@ social:
   link: https://www.linkedin.com/in/mapdonnelly/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/donnelly_cv.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: https://www.epidonnelly.com/cv
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,8 +68,8 @@ highlight_name: false
 ---
 
 
-I am an Epidemiologist and CDC Epidemic Intelligence Service (EIS) Officer (Disease Detective 🕵🔎️🦠) with a background in quantitative infectious disease epidemiology. I'm currently work on COVID in the Disease Investigations Section at the California Department of Public Health.
+I am an Epidemiologist and CDC Epidemic Intelligence Service (EIS) Officer (Disease Detective 🕵🔎️🦠) with a background in quantitative infectious disease epidemiology. I work on COVID-19 in the Disease Investigations Section at the California Department of Public Health.
 
 I'm driven to improve health outcomes for marginalized populations impacted by infectious diseases and believe that wealth should not be an obstacle to knowledge, prevention, or treatment.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/donnelly_cv.pdf" "newtab" >}}CV{{< /staticref >}}, or [view it online](/cv).

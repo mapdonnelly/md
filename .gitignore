@@ -8,5 +8,9 @@ jsconfig.json
 node_modules/
 .Rproj.user
 
-# Mac OS 
+# Mac OS
 .DS_Store
+
+# R files
+.Rhistory
+.Rproj.user/*
