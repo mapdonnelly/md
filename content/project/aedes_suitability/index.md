@@ -2,7 +2,7 @@
 title: Modeling changes in *Aedes aegypti* habitat
 summary: Mapping past, present, and future climatic suitability of Ae. aegypti in the United States
 tags:
-date: "2021-08-08T00:00:00Z"
+date: "2021-08-06T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

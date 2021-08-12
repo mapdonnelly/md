@@ -2,7 +2,7 @@
 title: Aedes aegypti blood and sugar-feeding
 summary: Laboratory and modeling methods to predicting *Ae. aegypti* blood and sugar-feeding 
 tags:
-date: "2021-08-09T00:00:00Z"
+date: "2021-08-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
