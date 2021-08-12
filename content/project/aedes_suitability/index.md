@@ -1,6 +1,6 @@
 ---
-title: Modeling changes in *Aedes aegypti* habitat
-summary: Mapping past, present, and future climatic suitability of Ae. aegypti in the United States
+title: Modeling changes in Aedes aegypti habitat
+summary: Mapping past, present, and future climatic suitability of *Ae. aegypti* in the United States
 tags:
 date: "2021-08-06T00:00:00Z"
 
@@ -8,7 +8,7 @@ date: "2021-08-06T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Bar charts represent surveillance data on Aedes aegypti (red) and Aedes albopicturs (pink) collections. The blue lines mapped on top of these charts represent the predicted population growth rates for Aedes aegypti. The predicted growth rates track well with observed surveillance data. These models can be used to project future changes in population dynamics and identify communities that may need additional resources for vector control. 
+  caption: Bar charts represent surveillance data on *Aedes aegypti* (red) and *Aedes albopicturs* (pink) collections. The blue lines mapped on top of these charts represent the predicted population growth rates for *Aedes aegypti*. 
   focal_point: Smart
 
 

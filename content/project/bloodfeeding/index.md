@@ -8,7 +8,7 @@ date: "2021-08-07T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Anthrone reacting with glycogen (sugar) from *Aedes aegypti* turns dark green.
   focal_point: Smart
 
 # links:

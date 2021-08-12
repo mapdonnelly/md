@@ -2,14 +2,13 @@
 title: Dengue and Zika Epidemiology in Peru
 summary: Data management for a 15,000 participant cohort study
 tags:
-- Deep Learning
 date: "2021-08-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: The city of Iquitos in Northern Peru rests on the banks of the Amazon river. 
   focal_point: Smart
 
 # links:

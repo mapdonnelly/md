@@ -2,14 +2,13 @@
 title: Climate change and health equity in California
 summary: Projecting heat-related mobidity and motality attributed to climate change in California.
 # tags:
-# - Deep Learning
 date: "2021-08-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Fraction of Emergency Department visits attributable to extreme heat and cold. 
   focal_point: Smart
 
 # links:
