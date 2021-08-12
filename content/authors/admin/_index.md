@@ -68,7 +68,7 @@ highlight_name: false
 ---
 
 
-I am an Epidemiologist and CDC Epidemic Intelligence Service (EIS) Officer (Disease Detective 🕵🔎️🦠) with a background in quantitative infectious disease epidemiology. I'm currently work on COVID in the Disease Investigations Section at the California Department of Public Health.
+I am an Epidemiologist and CDC Epidemic Intelligence Service (EIS) Officer (Disease Detective 🕵🔎️🦠) with a background in quantitative infectious disease epidemiology. I work on COVID-19 in the Disease Investigations Section at the California Department of Public Health.
 
 I'm driven to improve health outcomes for marginalized populations impacted by infectious diseases and believe that wealth should not be an obstacle to knowledge, prevention, or treatment.
 

@@ -2,14 +2,13 @@
 title: Sociodemographic drivers of Aedes aegypti abundance
 summary: Empircal models to identify vulnerable communities in Los Angeles, CA
 tags:
-- Deep Learning
 date: "2021-08-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Percent change in *Aedes aegypti* abundance associated with different household characteristics.
   focal_point: Smart
 
 # links:
