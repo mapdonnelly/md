@@ -58,7 +58,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://www.epidonnelly.com/cv
+  link: https://github.com/mapdonnelly/md/blob/master/static/uploads/donnelly_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,4 +72,4 @@ I am an Epidemiologist and CDC Epidemic Intelligence Service (EIS) Officer (Dise
 
 I'm driven to improve health outcomes for marginalized populations impacted by infectious diseases and believe that wealth should not be an obstacle to knowledge, prevention, or treatment.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/donnelly_cv.pdf" "newtab" >}}CV{{< /staticref >}}, or [view it online](/cv).
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/donnelly_cv.pdf" "newtab" >}}CV{{< /staticref >}}, or [view it online](https://github.com/mapdonnelly/md/blob/master/static/uploads/donnelly_cv.pdf).
