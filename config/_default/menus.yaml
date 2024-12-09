@@ -23,7 +23,7 @@ main:
     url: '#contact'
     weight: 60
   - name: CV
-    url: 'https://github.com/mapdonnelly/md/blob/master/static/uploads/Donnelly_Resume_20241015.pdf'
+    url: 'https://github.com/mapdonnelly/md/blob/master/static/uploads/donnelly_cv.pdf'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
